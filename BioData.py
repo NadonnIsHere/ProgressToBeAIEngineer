@@ -1,0 +1,10 @@
+name = input ("Name: ")
+age = input ("Age: ")
+hobby = input("Hobby: ")
+Future_career = input("i will be: ")
+
+print("Hello, my name is", name)
+print("I am", age, "years old") 
+print("My hobby is", hobby, "because I believe knowledge is the power of everything.")
+print("In the future I will be an", Future_career)
+print("I think that's all from me. If you want to contact me, @nazneenbafadhal <- my email.")
