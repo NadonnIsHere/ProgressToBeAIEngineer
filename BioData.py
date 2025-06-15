@@ -1,7 +1,7 @@
-name = input ("Name: ")
-age = input ("Age: ")
-hobby = input("Hobby: ")
-Future_career = input("i will be: ")
+name =  ("Name:Nazneen Bafadhal ")
+age =  ("Age:15 ")
+hobby = ("Hobby:Learning ")
+Future_career = ("i will be:AI Engineer ")
 
 print("Hello, my name is", name)
 print("I am", age, "years old") 
